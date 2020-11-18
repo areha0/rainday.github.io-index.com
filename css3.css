@@ -1,0 +1,397 @@
+div.container{border: 1px solid black;
+    width: 100%;
+    height: auto;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    
+}
+div.header{
+    background-color: honeydew;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    font-size: 40px; font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    background-image: url("/images/雨天1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left bottom;
+}
+span.h11{color: gold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    font-variant: small-caps;
+}
+
+div.menu{
+    padding-top: 40px;
+    background-image: url("/images/带土2.0.jpg");
+    background-size: 150%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color: white;
+    border:none;
+    float: left;
+    width: 15%;
+    height: 680px;
+    text-align: center;
+    line-height: 180%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    }
+span.m11{
+    color:yellowgreen;
+    font-size: 30px;
+    font-weight: 500;}
+span.m12{color: gold;
+    font-size: 30px;
+    font-weight: 500;}
+
+
+div.content{margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: none;
+    height: 100%;
+    width: 80%;
+    float: left;
+    font-size: 25px;  
+}
+div.MOM{
+    border: 1px solid black;
+    float: left;
+    background-color: honeydew;
+    width: 30%;
+    height: auto;
+    text-align: center;
+    padding-bottom: 50px;
+    background-image: url("/images/那鲁托.jpg");
+    background-repeat: no-repeat;
+    background-position:left bottom;
+    }
+#momp{
+    color: gold;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+span.MOMtext{
+    color:rgb(183, 211, 28);
+    font-size: 16px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    
+
+}
+
+div.liebiao11{
+    border: 1px solid black;
+    float: left;
+    margin-left: 40px;
+    background-color: honeydew;
+    width: 30%;
+    height: 1685px;
+    text-align: center;
+    background-image: url("/images/那鲁托.jpg"),url("/images/1打72.1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom,top;
+    background-position-x: -388px,180px;
+}
+
+div.liebiaot11{
+    color: rgb(179, 150, 23);
+    font-size: 16px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+#liebiaoi{color: rgb(202, 18, 74);
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+ul.ul1{list-style-image: url("/images/123xiao.jpg");}
+ul.ul2{list-style-type: square;}
+ol.ol1{list-style-type: upper-roman;}
+ol.ol2{list-style-type: upper-alpha;}
+q:lang(q2){quotes: "~" "~";}
+q:lang(q3){quotes: "-" "-";}
+
+
+span.borderstyle{color: lightpink;
+    font-size: 23px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-variant: small-caps;}
+
+.liebiao11 p{font-size: 16px;
+    font-weight: 300;
+    color: lightgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+p.b21{border-style: dotted;
+    outline: 3px inset indianred;
+    cursor: se-resize;}
+p.b22{border-style: dashed;
+    outline: 3px solid gold;
+    cursor: crosshair;}
+p.b23{border-style: solid;
+    outline: hotpink dotted 3px;
+    cursor: default;}
+p.b24{border-style: double;
+    cursor: e-resize;}
+p.b25{border-style: groove;
+    cursor: help;}
+p.b26{border-style: ridge;
+    cursor: move;}
+p.b27{border-style: inset;
+    cursor: pointer;}
+p.b28{border-style: outset;
+    cursor: wait;}
+p.b29{border-top: 3px dotted lightsalmon;
+    border-left: 3px solid rgb(133, 24, 206);
+    border-bottom: 3px ridge gold;
+    border-right: 3px inset palevioletred;
+    color: rgb(221, 117, 32);
+    font-style: oblique;
+    cursor: progress;}
+
+div.div23{border:4px inset tomato;
+    float: left;
+    width: 98%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: scroll;
+}
+
+p.qianzait{text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;}
+
+#qianzai{
+    color: rgb(223, 12, 65);
+    font-size: 25px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;}
+
+div.div24{
+    float: left;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+table.table24{border: 4px outset rgb(24, 141, 49);
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+    overflow: hidden;
+    padding: 0px;
+    border-spacing: 0px;
+}
+/*img.img211,img.img212,img.img213,
+img.img221,img.img222,img.img223,
+img.img231,img.img232,img.img233*/
+.table24 img
+{width: 102px;
+height: 180px;
+}
+
+.table24 caption{
+    border-bottom: none;
+    height: 40px;
+    color: hotpink;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    line-height: 40px;
+}
+
+
+
+
+div.list3{ border: 1px solid black;
+    float: left;
+    margin-left: 40px;
+    background-color: honeydew;
+    background-image: url("/images/1打72.1.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    width: 30%;
+    height: 1685px;
+    text-align: center;}
+
+div.div31{border: 0px;
+    padding-top: 400px;
+    width: 100%;
+    height: auto;
+    margin: auto;}
+
+fieldset.fs311{border:2px dotted brown;
+color: rgb(214, 19, 149);
+font-size: 16px;
+font-weight: 300;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: left;
+}
+legend.lg311{
+    color: black;
+    text-align: left;
+}
+.fs311 span{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    line-height: 23px;
+}
+span.sp311{
+    display: inline-block;
+    text-align: center;
+    width: 214px;
+}
+span.sp312
+{display: block;
+    width: 200px;
+    float: right;
+    margin-right: 53px;
+}
+span.sp313{display: block;
+    width: 200px;
+    float: right;
+    margin-right: 27px;
+}
+span.sp314{display: block;
+    width: 200px;
+    float: right;
+    margin-right:60px;
+}
+
+input[name="yourname"]{
+    border: 1px solid rgb(20, 20, 20);
+    background-color: inherit;}
+input[name="passcode"]{
+    border: 1px solid rgb(20, 20, 20);
+    background-color: inherit;}
+input[name="yourage"]{
+        border: 1px solid rgb(199, 16, 40);
+        background-color: inherit;}
+input[name="yourage"]:in-range{border: 1px solid black;}
+input[name="submit"]{
+    background-color: inherit;
+    color: red;
+}
+input[name="reset"]{
+    background-color: inherit;
+    color: red;
+}
+input[name="submit"]:focus{
+    background-color: yellow;
+}
+textarea[name="suggest"]{border: 1px  solid black;
+    background-color: inherit;
+    color: rgb(108, 233, 50);
+    font-size: 18px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+iframe.iframe1,iframe.iframe2
+{border: none;
+width: 100%;
+height: auto;
+}
+img.img331{border: none;
+    width: 100%;
+    height: auto;}
+
+
+div.table11{border: none;
+    float: left;
+    margin-top: 30px;
+    width: 100%;
+    height: 800px;
+    background-color: honeydew;
+    background-image: url("/images/晓2.0.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+    text-align: center;}
+table.table12{border: 1px solid #589e4a;
+    text-align: center;}
+.table12 th{border: 1px solid   #589e4a;
+    width: 26.56%;
+    height: 40px;
+    color: gold;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    line-height: 40px;}
+
+.table12 td{border: 1px solid   #589e4a;
+    color: rgb(204, 235, 29);
+    font-size: 16px;
+    font-weight: 300;
+    height: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    line-height: 30px;
+}
+#caption1{border: 2px solid #589e4a;
+    border-bottom: none;
+    height: 40px;
+    color: hotpink;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    line-height: 40px;
+}
+
+div.footer{border: none;
+background-color: blanchedalmond;
+height: 30px;
+clear: both;
+text-align: center;
+line-height: 30px;
+}
+p.p41{color: palevioletred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link{color: gold;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    }/*链接未打开时的样式*/
+a:visited{color: yellowgreen;
+    text-decoration: none;}/*链接打开后的样式*/
+a:hover{color: brown;
+    background-color: yellowgreen;
+    text-decoration: underline;}/*鼠标移动到链接的时候*/
+a:active{color: white;
+    text-decoration: underline;}/*鼠标点击时*/
+a.a21,a.a22,a.a23,a.a24
+{color:gold}
+a.a31,a.a32,a.a33,a.a34
+{color: gold;}
